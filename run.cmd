@@ -1,0 +1,2 @@
+node bing.js
+pause
