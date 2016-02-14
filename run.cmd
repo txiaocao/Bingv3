@@ -1,2 +1,2 @@
-node bing.js
+node --harmony bing.js
 pause
